@@ -10,5 +10,5 @@ target 'MainProject' do
  
   # Private Pods
   pod 'HandyFrame'
-
+  pod "A_Category"
 end
